@@ -8,6 +8,8 @@ authors:
   - family-names: "Braga"
     given-names: "Juliana Cristina"
     affiliation: "Universidade Federal do ABC (UFABC) – Grupo INTERA"
+doi: 10.5281/zenodo.23836532
+version: 1.0.0
 license: CC-BY-4.0
 repository-code: "https://github.com/jcbraga1-ux/rpg-du-skill"
 keywords:
