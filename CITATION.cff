@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "Se usar esta skill, cite o repositório e a dissertação que originou as diretrizes."
+title: "RPG-DU Skill – Diretrizes de Design Universal para jogos educacionais RPG"
+type: software
+authors:
+  - family-names: "Cunha"
+    given-names: "Francinete Furtado da"
+  - family-names: "Braga"
+    given-names: "Juliana Cristina"
+    affiliation: "Universidade Federal do ABC (UFABC) – Grupo INTERA"
+license: CC-BY-4.0
+repository-code: "https://github.com/jcbraga1-ux/rpg-du-skill"
+keywords:
+  - design universal
+  - acessibilidade
+  - jogos educacionais
+  - RPG
+  - agent skills
+preferred-citation:
+  type: thesis
+  thesis-type: "Dissertação (Mestrado em Ciência da Computação)"
+  title: "Diretrizes para o design universal de jogos educacionais digitais do tipo Role Play Games (RPG)"
+  authors:
+    - family-names: "Cunha"
+      given-names: "Francinete Furtado da"
+  institution:
+    name: "Universidade Federal do ABC"
+    city: "Santo André"
+  year: 2022
