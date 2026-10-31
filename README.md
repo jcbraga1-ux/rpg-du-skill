@@ -1,4 +1,5 @@
-# RPG-DU Skill – Diretrizes de Design Universal para jogos educacionais RPG (https://zenodo.org/badge/DOI/10.5281/zenodo.23836532.svg)](https://doi.org/10.5281/zenodo.23836532)
+# RPG-DU Skill – Diretrizes de Design Universal para jogos educacionais RPG 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23836532.svg)](https://doi.org/10.5281/zenodo.23836532)
 
 Agent Skill com as **88 diretrizes de Design Universal para jogos educacionais digitais do tipo RPG**, organizadas em 3 categorias de elementos do jogo (Estética, Narrativa e Mecânica), para usar com assistentes de IA compatíveis com o padrão aberto [Agent Skills](https://agentskills.io/). [![DOI]
 
