@@ -33,14 +33,7 @@ rpg-du-diretrizes/
 
 A skill é a pasta [`rpg-du-diretrizes/`](rpg-du-diretrizes/).
 
-- **Assistentes com tela de configurações:** baixe o arquivo pronto na página de [Releases](../../releases), em *Assets*:
-
-  | Assistente | Arquivo | Onde enviar |
-  | --- | --- | --- |
-  | Claude (claude.ai e app) | `rpg-du-diretrizes.zip` | *Configurações › Capacidades › Skills* |
-  | Gemini (app e web) | `rpg-du-diretrizes-gemini.zip` | página de *Skills* do Gemini, opção de enviar arquivo |
-
-  O arquivo `rpg-du-diretrizes-gemini.zip` traz o `SKILL.md` na pasta principal, como o Gemini exige, e também foi testado no Claude.
+- **Claude e Gemini:** baixe o arquivo `rpg-du-diretrizes.zip` na página de [Releases](../../releases), em *Assets*, e envie sem mudar o nome do arquivo (o Gemini exige que o nome do .zip seja igual ao nome da skill). No Claude, envie em *Configurações › Capacidades › Skills*; no Gemini, na página de *Skills*, opção de enviar arquivo. O mesmo arquivo serve para os dois.
 - **Ferramentas que leem skills de uma pasta:** copie a pasta `rpg-du-diretrizes` para o diretório de skills indicado na documentação da ferramenta.
 
 Depois de instalada, basta pedir em linguagem natural, por exemplo: *“Avalie este jogo com as diretrizes de Design Universal para RPG.”*
