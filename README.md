@@ -1,7 +1,7 @@
 # RPG-DU Skill – Diretrizes de Design Universal para jogos educacionais RPG 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23836532.svg)](https://doi.org/10.5281/zenodo.23836532)
 
-Agent Skill com as **88 diretrizes de Design Universal para jogos educacionais digitais do tipo RPG**, organizadas em 3 categorias de elementos do jogo (Estética, Narrativa e Mecânica), para usar com assistentes de IA compatíveis com o padrão aberto [Agent Skills](https://agentskills.io/). [![DOI]
+Agent Skill com as **88 diretrizes de Design Universal para jogos educacionais digitais do tipo RPG**, organizadas em 3 categorias de elementos do jogo (Estética, Narrativa e Mecânica), para usar com assistentes de IA compatíveis com o padrão aberto [Agent Skills](https://agentskills.io/).
 
 A ideia central: **jogos educacionais devem ser projetados desde o início para pessoas com e sem deficiência**, em vez de receber acessibilidade como adaptação posterior.
 
@@ -33,7 +33,14 @@ rpg-du-diretrizes/
 
 A skill é a pasta [`rpg-du-diretrizes/`](rpg-du-diretrizes/).
 
-- **Assistentes com tela de configurações:** compacte a pasta `rpg-du-diretrizes` em um arquivo `.zip` e envie na seção de Skills.
+- **Assistentes com tela de configurações:** baixe o arquivo pronto na página de [Releases](../../releases), em *Assets*:
+
+  | Assistente | Arquivo | Onde enviar |
+  | --- | --- | --- |
+  | Claude (claude.ai e app) | `rpg-du-diretrizes.zip` | *Configurações › Capacidades › Skills* |
+  | Gemini (app e web) | `rpg-du-diretrizes-gemini.zip` | página de *Skills* do Gemini, opção de enviar arquivo |
+
+  O arquivo `rpg-du-diretrizes-gemini.zip` traz o `SKILL.md` na pasta principal, como o Gemini exige, e também foi testado no Claude.
 - **Ferramentas que leem skills de uma pasta:** copie a pasta `rpg-du-diretrizes` para o diretório de skills indicado na documentação da ferramenta.
 
 Depois de instalada, basta pedir em linguagem natural, por exemplo: *“Avalie este jogo com as diretrizes de Design Universal para RPG.”*
