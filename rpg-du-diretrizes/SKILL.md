@@ -1,6 +1,6 @@
 ---
-name: "rpg-du-diretrizes"
-description: "Use para consultar, aplicar ou auditar as 88 diretrizes de Design Universal para jogos educacionais digitais do tipo RPG (Cunha, 2022) em projetos de jogos, requisitos, protótipos ou aulas."
+name: rpg-du-diretrizes
+description: Use para consultar, aplicar ou auditar as 88 diretrizes de Design Universal para jogos educacionais digitais do tipo RPG (Cunha, 2022) em projetos de jogos, requisitos, protótipos ou aulas.
 ---
 
 # Diretrizes de Design Universal para jogos educacionais digitais do tipo RPG
